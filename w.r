@@ -24,3 +24,4 @@ boxplot(jul[,c(3,4,5)],ylab="氣溫" ,xlab="201707", las=1)
 
 plot(aug$測站氣壓, las=1)
 lines(aug$測站氣壓, col="blue")
+
